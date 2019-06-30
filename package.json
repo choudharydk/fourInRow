@@ -1,0 +1,22 @@
+{
+  "name": "fourinrow",
+  "version": "1.0.0",
+  "description": "Four In Row Game",
+  "main": "test/main.spec.js",
+  "author": "Dhruv",
+  "license": "ISC",
+  "dependencies": {
+    "chai-json-schema-ajv": "^5.0.0",
+    "faker": "^4.1.0",
+    "log4js": "^4.4.0",
+    "mochawesome": "^3.0.3"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.5.3",  
+    "npm": "^6.4.1"
+  },
+  "scripts": {
+    "test": "test/run.sh"
+  }
+}
